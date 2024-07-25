@@ -1,38 +1,10 @@
 # Node.js
 node_modules/
-npm-debug.log
-yarn-error.log
 .env
 
 # Logs
-logs
-*.log
 logs/
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Coverage directory used by tools like istanbul
-coverage/
-
-# Output of `npm pack`
-*.tgz
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Dependency directories
-jspm_packages/
-
-# Parcel cache
-.cache
-.parcel-cache
+*.log
 
 # Build directories
 dist/
@@ -42,20 +14,6 @@ build/
 .next
 out
 
-# Local environment files
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Storybook files
-.storybook/
-.storybook-static/
-
 # IDE specific
 .vscode/
 .idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
