@@ -141,13 +141,3 @@ We welcome contributions to this project. Please follow these steps to contribut
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please feel free to reach out.
-
-- **Your Name** - [Your Email](mailto:youremail@example.com)
-- **Project Repository** - [https://github.com/your-username/incident-management-system](https://github.com/your-username/incident-management-system)
-```
-
-Replace the placeholders such as `https://github.com/your-username/incident-management-system` and `youremail@example.com` with your actual details. This README file provides a complete overview of the project, including setup instructions, project structure, API endpoints, and more.
