@@ -1,6 +1,3 @@
-Certainly! Here's the complete `.md` code for your README file, starting from the "Install Dependencies" section and including all necessary details:
-
-```markdown
 # Smart Incident Management System
 
 ## Introduction
@@ -35,7 +32,6 @@ The Smart Incident Management System is a web application designed to help engin
    ```bash
    git clone https://github.com/your-username/incident-management-system.git
    cd incident-management-system/backend
-   ```
 
 2. Install the dependencies:
    ```bash
